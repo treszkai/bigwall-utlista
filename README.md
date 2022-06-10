@@ -1,19 +1,32 @@
 ## BigWall utlista parser
 
-### Használat
+### Usage
 
-Docker containerben a legegyszerubb:
+Once you're [logged in to Docker Hub](https://docs.docker.com/docker-id/#log-in), you can pull the Docker image and run it by:
+
+```
+$ docker run --rm treszkai/bigwall-utlista > utlista.csv
+```
+
+You can also build this image yourself by cloning this Git repository first:
 
 ```bash
-$ # build docker container
+$ git clone "git@github.com:treszkai/bigwall-utlista.git" && cd bigwall-utlista
 $ docker build -t bigwall-utlista .
-
-$ # run container
 $ docker run --rm bigwall-utlista > utlista.csv
 ```
 
-Aztan `utlista.csv` egy CSV file `id`, `french-grade`, `title` oszlopokkal.
+### Output
 
-## Restrictions
+The route list is printed on stdout as a CSV with columns `id`, `french-grade`, `title`. Routes are ordered by ID.
+
+Convert the French grade to UIAA yourself using [this chart](https://en.wikipedia.org/wiki/Grade_%28climbing%29#Bouldering_2).
+
+### Restrictions
 
 Please play nice and don't run this script a thousand times a second.
+
+### Warranty
+
+There is no warranty.
+
