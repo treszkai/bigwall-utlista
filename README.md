@@ -12,13 +12,13 @@ You can also build this image yourself by cloning this Git repository first:
 
 ```bash
 $ git clone "git@github.com:treszkai/bigwall-utlista.git" && cd bigwall-utlista
-$ docker build -t bigwall-utlista .
-$ docker run --rm bigwall-utlista > utlista.csv
+$ docker build -t treszkai/bigwall-utlista .
+$ docker run --rm treszkai/bigwall-utlista > utlista.csv
 ```
 
 ### Output
 
-The route list is printed on stdout as a CSV with columns `id`, `french-grade`, `title`. Routes are ordered by ID.
+The route list is printed on stdout as a CSV with columns `id`, `title`, `french-grade`, `title`. Routes are ordered by ID.
 
 Convert the French grade to UIAA yourself using [this chart](https://en.wikipedia.org/wiki/Grade_%28climbing%29#Bouldering_2).
 
