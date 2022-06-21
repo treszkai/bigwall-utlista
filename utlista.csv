@@ -1,4 +1,4 @@
-id,title,french-grade
+ID,Title,French grade
 1459,Ez csak egy egyszerű dal...,4a
 1680,Egy eltévedt kéményseprő,5c
 1681,Nyúlj nagyot!,5a
@@ -86,13 +86,15 @@ id,title,french-grade
 1843,A Royale with Cheese,6b
 1844,Az aranysakál újra támad,5a
 1845,Kicsúszás Berci módra,5b
-1846,The devil's tango,5b
+1846,The devil's tango,5a
 1847,Elmúlás nemes egyszerűsége,6c
-1848,Mit Scharf Bitte,6a+
-1849,Pángalaktikus polgárpukkasztó,5c
-1850,Vad szafari,7a
+1848,Mit Scharf Bitte,6b
+1849,Pángalaktikus polgárpukkasztó,6a
+1850,Vad szafari,7a+
 1851,Fotel,7b
 1852,Blokkolt,7a
 1853,*a név helye*,7b
 1854,,6b
 1855,"Lehet, hogy talán egészen biztosan",8a
+1856,"Güle güle, Özgür ruh!",6a+
+1857,Grand Marriott Traverse,6b+

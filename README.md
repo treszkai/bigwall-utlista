@@ -18,7 +18,7 @@ $ docker run --rm treszkai/bigwall-utlista > utlista.csv
 
 ### Output
 
-The route list is printed on stdout as a CSV with columns `id`, `title`, `french-grade`. Routes are ordered by ID.
+The route list is printed on stdout as a CSV with columns `ID`, `Title`, `French grade`. Routes are ordered by ID.
 
 Convert the French grade to UIAA yourself using [this chart](https://en.wikipedia.org/wiki/Grade_%28climbing%29#Bouldering_2).
 
