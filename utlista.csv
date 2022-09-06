@@ -1,11 +1,7 @@
 ID,Title,French grade,UIAA grade
 1459,Ez csak egy egyszerű dal...,4a,IV
 1680,Egy eltévedt kéményseprő,5c,VI
-1681,Nyúlj nagyot!,5a,V+
-1683,Portnoy szindróma,6a,VI+
-1694,Miért nem a Hufnágel Pistihez mentem feleségül?!,5c,VI
 1695,Cabestano,6a,VI+
-1696,Nye mozsna,5a,V+
 1709,"A Zélet, a világmindenség, meg minden",5b,VI−
 1723,Cukifejű,4c,V
 1724,Senator Lounge,5b,VI−
@@ -15,20 +11,12 @@ ID,Title,French grade,UIAA grade
 1743,Groundhog day,5b,VI−
 1744,Na'conxy pan,6b+,VII+
 1746,Ovid,4a,IV
-1747,Irány Istria,5b,VI−
-1749,Szamojéd,6a+,VII−
-1750,Éjszakai meglepetés,5a,V+
-1751,Gyugyu,6b,VII
-1752,Tomóceusz Katatiki,6b+,VII+
-1754,a tavasz lehelete,5c,VI
-1755,küzd a tavasz,6b,VII
 1758,Bordello,6b,VII
 1764,VIRgonckodunk,5a,V+
 1769,Időtlen lámpaláz,6a+,VII−
 1770,Nehéz lett,5a,V+
 1773,Etűdök gépzongorára,5b,VI−
 1774,Bogyó és Babóca útja,5c,VI
-1776,A vak csellista szerenádja,6a+,VII−
 1777,The road of peace,4a,IV
 1778,Sirály,6a+,VII−
 1786,Zoknis Matyi,5c,VI
@@ -40,28 +28,17 @@ ID,Title,French grade,UIAA grade
 1797,Ninónak,6a,VI+
 1798,Unatkozik? Vásároljon mosómedvét!,6a,VI+
 1799,Kertészkedni Annával,6a+,VII−
-1800,La bakht wa la bashmag,5c,VI
 1801,Tértivevénnyel ellátva,6a+,VII−
-1802,2022 BW Magyar Kupa 2. út,5c,VI
 1803,2022 BW Magyar Kupa 1. út,4c,V
-1804,2022 BW Magyar Kupa 3. út,6a,VI+
-1805,2022 BW Magyar Kupa 4. út,6a,VI+
-1806,2022 BW Magyar Kupa 5. út,6b+,VII+
-1807,2022 BW Magyar Kupa 6. út,6c,VIII−
 1808,2022 BW Magyar Kupa 7. út,7a,VIII
 1809,2022 BW Magyar Kupa 8. út,6b,VII
-1810,2022 BW Magyar Kupa 9. út,6b+,VII+
 1811,2022 BW Magyar Kupa 10. út,7a,VIII
 1812,2022 BW Magyar Kupa 11. út,7b,VIII+/IX−
-1813,2022 BW Magyar Kupa 12. út,6c+,VIII−
-1814,2022 BW Magyar Kupa 13. út,5c,VI
 1815,2022 BW Magyar Kupa Férfi döntő,8b,X
 1816,2022 BW Magyar Kupa 14. út,7c,IX
-1817,2022 BW Magyar Kupa Női döntő,7b+,IX−
 1818,2022 BW Magyar Kupa 15. út,7c,IX
 1819,Towards the Sun,6a,VI+
 1820,Bayou,5c,VI
-1821,House of Memories,5c,VI
 1822,Willow,6a,VI+
 1823,Köszönet a bíráknak,5b,VI−
 1824,Sűrű hétvége,5a,V+
@@ -69,7 +46,6 @@ ID,Title,French grade,UIAA grade
 1826,Caligula lova,6a+,VII−
 1827,el Kasbah,6a+,VII−
 1828,la Gauche caviar,6a+,VII−
-1829,Sogno di volare,5a,V+
 1830,Csiki-csuki,6b+,VII+
 1831,Flipper,5a,V+
 1832,Ezüsthíd,6c+,VIII−
@@ -92,9 +68,39 @@ ID,Title,French grade,UIAA grade
 1849,Pángalaktikus polgárpukkasztó,6a,VI+
 1850,Vad szafari,7a+,VIII+
 1851,Fotel,7b,VIII+/IX−
-1852,Blokkolt,7a,VIII
-1853,*a név helye*,7b,VIII+/IX−
+1852,Blokkolt,7b+,IX−
+1853,*a név helye*,7c,IX
 1854,,6b,VII
-1855,"Lehet, hogy talán egészen biztosan",8a,IX+/X−
-1856,"Güle güle, Özgür ruh!",6a+,VII−
+1855,"Lehet, hogy talán egészen biztosan",8a+,X−
+1856,"Güle güle, Özgür ruh!",6b,VII
 1857,Grand Marriott Traverse,6b+,VII+
+1858,ÄPPLARÖ,5a,V+
+1859,Sacher-torta,5a,V+
+1860,Sütemény,6c,VIII−
+1861,fa csavar os.,6b+,VII+
+1862,Pet Shop Boys,5a,V+
+1863,Nyári tábor,7b,VIII+/IX−
+1864,M médiumra sütve,5b,VI−
+1865,Diszkrét örködés,4b,V−
+1866,Óceán,6a+,VII−
+1867,while your lips are still red,6a,VI+
+1868,One more light,5b,VI−
+1869,Za Warudo,5a,V+
+1870,Ego death,6b,VII
+1871,"Miszerint, csokornyakkendővel",5c,VI
+1872,Udvari bolond,6a+,VII−
+1873,Pipacsmező,5b,VI−
+1874,Last minute favors,5c,VI
+1875,GORDIAN MANEUVER,6b+,VII+
+1876,BABÉR STREET DIALOGUE,5b,VI−
+1877,Zöldség nélkül,6c+,VIII−
+1878,Nulla miliméter,6a,VI+
+1879,Petrezselyem baráti áron,5b,VI−
+1880,Good riddance,5c,VI
+1881,Mille tonnerre!,6a+,VII−
+1882,Boldog Születésnapot Balázs!,6c,VIII−
+1883,A tavak mellett,6a+,VII−
+1884,Dzsáhilijja,6b+,VII+
+1885,A kutya meg a mája,5a,V+
+1886,Aoratos Kai Akataskeuastos,6b+,VII+
+1887,Nem tudom?,6a,VI+
